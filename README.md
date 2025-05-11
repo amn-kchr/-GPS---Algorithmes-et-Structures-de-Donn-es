@@ -61,10 +61,6 @@ ou
 * `wolf&goat&cabbage.txt`
 * `school.txt`
 
-### Rapport détaillé
-
-Consultez `Rapport de fin de projet GPS, MEDJANI Elyes & KECHIR Amine.pdf` pour une explication approfondie du projet, des choix techniques et des résultats obtenus.
-
 ## Prérequis
 
 * Compilateur `gcc`
@@ -76,7 +72,7 @@ Consultez `Rapport de fin de projet GPS, MEDJANI Elyes & KECHIR Amine.pdf` pour 
 
 ## Licence
 
-Ce projet est soumis à une licence MIT. Voir le fichier `LICENSE` pour davantage d'informations.
+Ce projet est soumis à une licence 1 informatoque.
 
 ---
 
